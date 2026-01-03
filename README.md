@@ -6,6 +6,8 @@ The goal is to group similar content based on features like description, genre, 
 
 This project is part of Module 6 – Unsupervised Learning under the AlmaBetter Data Science & Machine Learning Program.
 
+## Google colab link: https://colab.research.google.com/drive/1AACRLf9xhYF5U1OiHFOFrw-xpy8GrScl?usp=sharing 
+
 🧠 Problem Statement
 
 Netflix has a huge library of movies and TV shows.
